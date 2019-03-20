@@ -9,6 +9,6 @@
     <script src="http://localhost:81/catayas_git/assets/js/main.js"></script>
 </head>
 <body>
-   <h1>Welcome! This is your git Assigment</h1> 
+   <h1>This is my first repository to github</h1> 
 </body>
 </html>
